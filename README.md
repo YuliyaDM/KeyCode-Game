@@ -1,5 +1,6 @@
 # KeyCode-Game
 The website = https://yuliyadm.github.io/KeyCode-Game/
+
 Cube control:
   w - to top,
   x - to bottom,
