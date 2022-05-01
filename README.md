@@ -7,9 +7,4 @@ Cube control:
   d - to right
   
   
-![Снимок экрана (79)](https://user-images.githubusercontent.com/97304652/166147345-96c08862-23ec-4930-aaab-a7fce538fda7.png) 
-^
-|
-|
-|
-Here is an image of game.
+![Снимок экрана (79)](https://user-images.githubusercontent.com/97304652/166147345-96c08862-23ec-4930-aaab-a7fce538fda7.png) - image of game
