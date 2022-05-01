@@ -2,9 +2,13 @@
 The website = https://yuliyadm.github.io/KeyCode-Game/
 
 Cube control:
+
   w - to top,
+  
   x - to bottom,
+  
   a - to left, 
+  
   d - to right
   
   
